@@ -4,4 +4,4 @@
 Find me here: [GitHub Profile](https://github.com/Vida-1)
 
 # Contents
-[<img src="https://photos.app.goo.gl/evPxs3oVpQEMVXyY6">](read01.md)
+[read01.jpg](read01.md)
