@@ -4,4 +4,4 @@
 Find me here: [GitHub Profile](https://github.com/Vida-1)
 
 # Contents
-[<img src="read01.jpg">](read01.md)
+[Read: 01 - Introductory HTML and JavaScript](read01.md)
