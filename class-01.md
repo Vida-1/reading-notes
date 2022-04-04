@@ -5,6 +5,7 @@
 "Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts:: a name and a value, separated by an equals sign." -pg 25
 
 * *HTML Chapter 8: “Extra Markup” (p.176-199)*
+** [Audio Clip - Pages 179 & 180](HTMLCSSpgs179-180.mp3)
 
 * *HTML Chapter 17: “HTML5 Layout” (pp.428-451)*
 
