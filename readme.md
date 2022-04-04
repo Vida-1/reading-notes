@@ -1,7 +1,20 @@
-# A Bit About Vida
-##### Mellow greetings from North Carolina (Eastern time zone)! I'm Vida (she/her), Mom to four furkids and pandemic-inspired homeschooler of two (nephews) with a passion for Star Trek, canine rescue, and learning coding. My background is in online support services providing support in retail accounting, commercial real estate underwriting, logistics, and canine rescue. My system is running 64-bit Win 10 Home v.10.0.19044. I love learning new things and am excited about taking this class because I've long had an interest in learning to code and the stars have finally aligned for me to have an opportunity to do so! 
+# Code 201 Reading Notes
 
-Find me here: [GitHub Profile](https://github.com/Vida-1)
+##### This sie will store notes on the daily readings assigned in the software development course Coding 201.
 
 # Contents
-[Read: 01 - Introductory HTML and JavaScript](read01.md)
+* [Read: 01  - Introductory HTML and JavaScript](read01.md)
+* Read: 02  - Coming soon 
+* Read: 03  - Coming soon 
+* Read: 04  - Coming soon
+* Read: 05  - Coming soon
+* Read: 06  - Coming soon
+* Read: 07  - Coming soon
+* Read: 08  - Coming soon
+* Read: 09  - Coming soon
+* Read: 10  - Coming soon
+* Read: 11  - Coming soon
+* Read: 12  - Coming soon
+* Read: 13  - Coming soon
+* Read: 14a - Coming soon
+* Read: 14b - Coming soon
