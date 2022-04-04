@@ -19,7 +19,7 @@
 * Read: 14a - Coming soon
 * Read: 14b - Coming soon
 
-# Code 201 Reading Notes
+# Code 102 Reading Notes
 # Contents
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read01Image(1).jpg?width=285&height=175&crop=fill">](read01_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill">](read02_102.md)
