@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-##### This sie will store notes on the daily readings assigned in the software development course Coding 201.
+##### This site will store notes on the daily readings assigned in the software development course Coding 201.
 
 # Contents
 * [Read: 01  - Introductory HTML and JavaScript](read01_201.md)
