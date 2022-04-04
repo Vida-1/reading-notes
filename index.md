@@ -2,7 +2,7 @@
 
 ##### This site will store notes on the daily readings assigned in the software development course Coding 201.
 
-# Contents
+## Contents
 * [Read: 01  - Introductory HTML and JavaScript](class-01.md)
 * Read: 02  - Coming soon 
 * Read: 03  - Coming soon 
@@ -20,7 +20,7 @@
 * Read: 14b - Coming soon
 
 # Code 102 Reading Notes
-# Contents
+## Contents
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read01Image(1).jpg?width=285&height=175&crop=fill">](read01_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill">](read02_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read03Image.jpg?width=285&height=175&crop=fill">](read03_102.md)
