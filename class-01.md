@@ -17,3 +17,5 @@
   * Don't lose focus on the point of the site (i.e. target audience, mission, efficacy).
  
 * *JS Chapter 1: “The ABC of Programming” (pp.11-52)*
+* *Things I want to know more about*
+  * The Javascript chapter has been most interesting so far but I'm still reading it so I can't say yet what I'll want to know more about. 
