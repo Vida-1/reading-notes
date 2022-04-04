@@ -17,9 +17,9 @@
   * Don't lose focus on the point of the site (i.e. target audience, mission, efficacy).
  
 * *JS Chapter 1: “The ABC of Programming” (pp.11-52)*
-  * [Audio Clip - Pages 13-24](HTMLCSSpgs179-180.mp3)
-  * [Audio Clip - Pages 25-42](HTMLCSSpgs179-180.mp3)
-  * [Audio Clip - Pages 43-52](HTMLCSSpgs179-180.mp3)
+  * [Audio Clip - Pages 13-24](JavaScript and JQuery - Chapter 1a.mp3)
+  * [Audio Clip - Pages 25-42](JavaScript and JQuery - Chapter 1b.mp3)
+  * [Audio Clip - Pages 43-52](JavaScript and JQuery - Chapter 1c.mp3)
   * 
 * *Things I want to know more about*
-  * The Javascript chapter has been most interesting so far but I'm still reading it so I can't say yet what I'll want to know more about. 
+  * Eventually I'll want to know more about JavaScript but for now the reading has given me plenty enough to practice and digest right away.
