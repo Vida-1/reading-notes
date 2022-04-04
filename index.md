@@ -3,7 +3,7 @@
 ##### This sie will store notes on the daily readings assigned in the software development course Coding 201.
 
 # Contents
-* [Read: 01  - Introductory HTML and JavaScript](read01.md)
+* [Read: 01  - Introductory HTML and JavaScript](read01_201.md)
 * Read: 02  - Coming soon 
 * Read: 03  - Coming soon 
 * Read: 04  - Coming soon
