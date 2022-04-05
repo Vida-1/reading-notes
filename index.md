@@ -4,7 +4,7 @@
 
 ## Contents
 * [Read: 01  - Introductory HTML and JavaScript](class-01.md)
-* Read: 02  - Coming soon 
+* [Read: 02  - HTML Text, CSS Introduction, and Basic JS Instructions](class-02.md) 
 * Read: 03  - Coming soon 
 * Read: 04  - Coming soon
 * Read: 05  - Coming soon
