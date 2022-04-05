@@ -1,3 +1,5 @@
+### ![Image](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
 ### 04/04/2022: Read 02 - HTML Text, CSS Introduction, and Basic JS Instructions
 
 ### HTML Chapter 2: “Text” (pp.40-61)
@@ -9,7 +11,8 @@
  
 ### JS Chapter 2: “Basic JavaScript Instructions" (pp.53-84)
 
-  * lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+  * to multi-line comment code in JS:  /* comment comment comment */
+  * to single-line comment conde in JS:  // comment comment comment
   
 ### JS Chapter 4: “Decisions and Loops" (pp.145-162) 
 *-only up to the section on switch statements*
