@@ -31,8 +31,5 @@ Everything presented in this reading assignment is important and the reasons are
 Last week I called a student to my desk to explain some work he had done a few days prior. I asked him to read his response to a question because I could not read his handwriting. When he was unable to do so, I instructed him to re-do the assignment. This greatly agitated my 8 year old nephew, however, the lesson he (hopefully) learned from the exercise is common to the wisdom offered by the additional resource link above on git commit messages: "There's no guarantee that you'll remember what you did or why you did days after an update, so clear and effective documentation (even if brief) is important not only to your own efficiency, but also in preventing others from deeming your work worthless.
       
 ### `Things I want to know more about`
-I would like to know more about using JavaScript conditional statements to determine the contente presented on a web page. For example 
-let responseOne = prompt('Did you have a good day? (y/n)')
-if responseOne == "n" then a sad face image appears in <main> with a message of "Sorry to hear that, hope tomorrow is better for you."
-however, if responseOne == "n" then in the same spot that would have been a 480x480px image, instead a 480x480px video is embedded and auto-played of a puppy dancing.
+I would like to know more about using JavaScript conditional statements to determine the content presented on a web page. For example let responseOne = prompt('Did you have a good day? (y/n)') if responseOne == "n" then a sad face image appears with a message of "Sorry to hear that, hope tomorrow is better for you" otherwise in that same spot that would have been a 480x480px image, instead a 480x480px video is embedded which plays a puppy dancing.
  
