@@ -1,11 +1,11 @@
-![Image](https://unsplash.com/photos/TMj1c5wlO3k)
+![Image](https://images.unsplash.com/photo-1620295153878-8e6026f3be98?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
 
 #### 04/06/2022: Read 03 - HTML Lists, CSS Boxes, JS Control Flow
 
 #### HTML Chapter 3: “Lists” (pp.62-73)
-* <dl></dl> definition list
-  * <dt></dt> definition term
-  * <dd></dd> term definition
+* < dl>< /dl> definition list
+  * < dt>< /dt> definition term
+  * < dd>< /dd> term definition
   
 #### HTML Chapter 13: “Boxes” (p.300-329)
   * div { height: 300px; width: 400px; background-color: #ee3e80;}  <-- this is an example of how to set the size of a box from the text page 303
