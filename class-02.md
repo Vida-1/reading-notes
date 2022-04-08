@@ -24,7 +24,7 @@
 ### Additional Resource: https://chris.beams.io/posts/git-commit/
   * about the importance of writing good git commit messages 
   
-### `Why does this topic matters`
+### `Why this topic matters`
 Everything presented in this reading assignment is important and the reasons are pretty obvious, however to be specific about the JavaScript: one of the most important aspects of web design is to engage your audience and this is much easier to accomplish by employing dynamic interactions made possibly by inclusion of JavaScript. 
   
 ### `Analogy `

@@ -19,7 +19,7 @@
 #### Additional Resource: https://chris.beams.io/posts/git-commit/
 * lorem ipsum
     
-#### `Why does this topic matters`
+#### `Why this topic matters`
 * lorem ipsum
     
 #### `Analogy `
@@ -28,3 +28,29 @@
 #### `Things I want to know more about`
 * lorem ipsum
    
+Readings*****************14a**************************
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+The following reading is required for psychological safety talk:
+
+What Google Learned From Its Quest to Build the Perfect Team
+Read the following articles and/or review the following examples on CSS animations:
+
+Read this article on CSS Transforms
+Read this article on CSS Transitions & Animations
+8 simple CSS3 transitions that will wow your users
+6 Buttons animated
+CSS3 Animations: Keyframes
+404
+Pure CSS Bounce Animation
+
+Readings*********************14b******************************
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+What Google Learned From Its Quest to Build the Perfect Team

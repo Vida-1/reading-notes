@@ -17,7 +17,7 @@
 #### Additional Resource: https://chris.beams.io/posts/git-commit/
 * lorem ipsum
     
-#### `Why does this topic matters`
+#### `Why this topic matters`
 * lorem ipsum
     
 #### `Analogy `
@@ -26,3 +26,21 @@
 #### `Things I want to know more about`
 * lorem ipsum
    
+Readings: Chart.js, Canvas
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+Assorted bits of documentation:
+
+Read this article on the Chart.js API.
+
+Chart.js docs: You’ll be needing these!
+
+Read the following articles on the Canvas API.
+
+Basic usage
+Drawing shapes with canvas
+Applying styles and colors
+Drawing text

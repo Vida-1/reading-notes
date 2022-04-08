@@ -7,17 +7,17 @@
 * [Read: 02  - HTML Text, CSS Introduction, and Basic JS Instructions](class-02.md) 
 * [Read: 03  - HTML Lists, CSS Boxes, JS Control Flow](class-03.md) 
 * [Read: 04  - HTML Links, CSS Layout, JS Functions](class-04.md)
-* Read: 05  - Coming soon
-* Read: 06  - Coming soon
-* Read: 07  - Coming soon
-* Read: 08  - Coming soon
-* Read: 09  - Coming soon
-* Read: 10  - Coming soon
-* Read: 11  - Coming soon
-* Read: 12  - Coming soon
-* Read: 13  - Coming soon
-* Read: 14a - Coming soon
-* Read: 14b - Coming soon
+<!-- * [Read: 05  - HTML Images; CSS Color & Text](class-05.md)
+<!-- * [Read: 06  - JS Object Literals; The DOM](class-06.md)
+<!-- * [Read: 07  - HTML Tables; JS Constructor Functions](class-07.md)
+<!-- * [Read: 08  - More CSS Layout](class-08.md)
+<!-- * [Read: 09  - Forms and Events](class-09.md)
+<!-- * [Read: 10  - JS Debugging](class-10.md)
+<!-- * [Read: 11  - Assorted Topics](class-11.md)
+<!-- * [Read: 12  - Docs for the HTML <canvas> Element & Chart.js](class-12.md)
+<!-- * [Read: 13  - Local Storage](class-13.md)
+<!-- * [Read: 14a - CSS Transforms, Transitions, and Animations](class-14.md)
+<!-- * [Read: 14b - What Google Learned About Teams](class-14.md) -->
 
 # Code 102 Reading Notes
 ## Contents

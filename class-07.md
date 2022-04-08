@@ -17,7 +17,7 @@
 #### Additional Resource: https://chris.beams.io/posts/git-commit/
 * lorem ipsum
     
-#### `Why does this topic matters`
+#### `Why this topic matters`
 * lorem ipsum
     
 #### `Analogy `
@@ -26,3 +26,14 @@
 #### `Things I want to know more about`
 * lorem ipsum
    
+Readings: Object-Oriented Programming, HTML Tables
+Below is a collection of resources which describe the topics for the upcoming lecture.
+
+Read
+Domain Modeling
+From the Duckett HTML book:
+
+Chapter 6: “Tables” (pp.126-145)
+From the Duckett JS Book:
+
+Chapter 3: “Functions, Methods, and Objects” (pp.106-144)

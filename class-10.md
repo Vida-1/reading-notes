@@ -17,7 +17,7 @@
 #### Additional Resource: https://chris.beams.io/posts/git-commit/
 * lorem ipsum
     
-#### `Why does this topic matters`
+#### `Why this topic matters`
 * lorem ipsum
     
 #### `Analogy `
@@ -26,3 +26,14 @@
 #### `Things I want to know more about`
 * lorem ipsum
    
+Readings: Debugging
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+Here are the chapters to read before class:
+
+From the Duckett JS book:
+
+JavaScript book, Ch. 10, “Error Handling & Debugging”
