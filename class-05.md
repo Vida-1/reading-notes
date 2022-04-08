@@ -1,22 +1,21 @@
-![Image](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80)
+![Image](![Image](https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80))
+![Image](![Image](/img/loremipsum.png))
+![Image](![Image](https://images.unsplash.com/photo-1523461811963-7f1023caeddd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80))
 
 #### 04/08/2022: Read 05 - HTML Images; CSS Color & Text
-#### HTML Chapter 3: “Lists” (pp.62-73)
-* lorem ipsum
-  
-#### HTML Chapter 13: “Boxes” (p.300-329)
+#### HTML Chapter 5: “Images” (pp.94-125)
+
+
+#### HTML Chapter 11: “Color” (p.246-263)
   * lorem ipsum
   
-#### JS Chapter 2: “Basic JavaScript Instructions" (pp.53-84)
+#### HTML Chapter 12: “Text" (pp.264-299)
+* lorem ipsum
+        
+#### Additional Resource: [Blog Post: JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
 * lorem ipsum
     
-#### JS Chapter 4: “Decisions and Loops" (pp.145-162) 
-* lorem ipsum
-    
-#### Additional Resource: https://chris.beams.io/posts/git-commit/
-* lorem ipsum
-    
-#### `Why does this topic matters`
+#### `Why this topic matters`
 * lorem ipsum
     
 #### `Analogy `
