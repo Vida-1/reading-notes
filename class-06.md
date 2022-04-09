@@ -21,7 +21,7 @@
 * "When the browser loads a web page, it creates a model of the page in memory. The DOM specifies the way in which the browser should structure this model using a DOM tree." -pg 184
 * "The DOM states what your script can ask the browser about the current page, and how to tell the browser to update what is being shown to the user." -pg 184
 * DOM tree from pg 187 of the text:
-[!Image](DomTree.jpg)
+[!Image](/img/Domtree.jpg)
 
 #### [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 The author describes the dream situation of having a clear and detailed spec sheet at one point in his history as a programmer, unfortunately though understanding the problem completely from the beginning is important to being able to more efficiently generate code, it does not seem to be the case anymore. <char &#128532;>
