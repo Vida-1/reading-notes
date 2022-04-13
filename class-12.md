@@ -1,20 +1,20 @@
-![Image](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80)
-
 #### 04/19/2022: Read 12 - Docs for the HTML <canvas> Element & Chart.js
 
-#### HTML Chapter 3: “Lists” (pp.62-73)
-* lorem ipsum
+#### Assorted Bits of Documentation
   
-#### HTML Chapter 13: “Boxes” (p.300-329)
+#### [Read this article on the Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
   * lorem ipsum
   
-#### JS Chapter 2: “Basic JavaScript Instructions" (pp.53-84)
+#### [The Canvas API: Basic Usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 * lorem ipsum
     
-#### JS Chapter 4: “Decisions and Loops" (pp.145-162) 
+#### [The Canvas API: Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes) 
 * lorem ipsum
     
-#### Additional Resource: https://chris.beams.io/posts/git-commit/
+#### [The Canvas API: Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+* lorem ipsum
+    
+#### [The Canvas API: Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 * lorem ipsum
     
 #### `Why this topic matters`
@@ -25,22 +25,3 @@
         
 #### `Things I want to know more about`
 * lorem ipsum
-   
-Readings: Chart.js, Canvas
-Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
-
-Review the Submission Instructions for guidance on completing and submitting this assignment.
-
-Reading
-Assorted bits of documentation:
-
-Read this article on the Chart.js API.
-
-Chart.js docs: You’ll be needing these!
-
-Read the following articles on the Canvas API.
-
-Basic usage
-Drawing shapes with canvas
-Applying styles and colors
-Drawing text
