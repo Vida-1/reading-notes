@@ -1,27 +1,21 @@
 #### 04/19/2022: Read 12 - Docs for the HTML <canvas> Element & Chart.js
 
 #### Assorted Bits of Documentation
-  
-#### [Read this article on the Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-  * lorem ipsum
-  
-#### [The Canvas API: Basic Usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-* lorem ipsum
-    
-#### [The Canvas API: Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes) 
-* lorem ipsum
-    
-#### [The Canvas API: Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
-* lorem ipsum
-    
-#### [The Canvas API: Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
-* lorem ipsum
-    
+* Chart.js download: http://www.chartjs.org/
+
+* Chart.js lets you draw line, pie, bar charts after you download it, place it into your project and link to it from an html page
+
+* Canvas API creates a 2d drawing service that can be sized, etc. via CSS commands 
+
+* Shapes are drawn in canvas environments with x-y coordinates
+
+* Will have to give this article another read while dabbling on-screen    
+
 #### `Why this topic matters`
-* lorem ipsum
+* Honestly not sure yet why this matters really. I mean it seems novel, but outdated. Could be though that I’m not fully grasping things.
     
 #### `Analogy `
-* lorem ipsum
+* I don’t have one for this.
         
 #### `Things I want to know more about`
-* lorem ipsum
+* There’s nothing here I’d like to know more about at this time.
