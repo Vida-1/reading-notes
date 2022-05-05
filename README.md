@@ -1,6 +1,6 @@
 # Reading Notes
 
-## Code 401 Reading Notes -just some test text
+## Code 401 Reading Notes
 
 
 ## Code 301 Reading Notes
