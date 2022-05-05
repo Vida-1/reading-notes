@@ -1,4 +1,12 @@
-# Code 201 Reading Notes
+# Reading Notes
+
+## Code 401 Reading Notes
+
+
+## Code 301 Reading Notes
+* [Read: 01  - TBD](301-01.md)
+
+## Code 201 Reading Notes
 
 ##### This site will store notes on the daily readings assigned in the software development course Coding 201.
 
@@ -19,8 +27,8 @@
 * [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
 * [Read: 14b - What Google Learned About Teams](class-14b.md)
 
-# Code 102 Reading Notes
-## Contents
+## Code 102 Reading Notes
+### Contents
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read01Image(1).jpg?width=285&height=175&crop=fill">](read01_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill">](read02_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read03Image.jpg?width=285&height=175&crop=fill">](read03_102.md)
