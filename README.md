@@ -4,7 +4,20 @@
 
 
 ## Code 301 Reading Notes
-* [Read: 01  - TBD](301-01.md)
+* [Read: 01  - Introduction to React and Components](read01_301.md)
+* [Read: 02  - State and Props](read02_301.md)
+* [Read: 03  - Passing Functions as Props](read03_301.md)
+* [Read: 04  - React and Forms](read04_301.md)
+* [Read: 05  - Putting it all together](read05_301.md)
+* [Read: 06  - NODE.JS](read06_301.md)
+* [Read: 07  - REST](read07_301.md)
+* [Read: 08  - APIs](read08_301.md)
+* [Read: 09  - Functional Programming](read09_301.md)
+* [Read: 10  - In memory storage](read10_301.md)
+* [Read: 11  - Mongo and Mongoose](read11_301.md)
+* [Read: 12  - CRUD](read12_301.md)
+* [Read: 13  - More CRUD](read13_301.md)
+* [Read: 14  - Diversity & Inclusion in the Tech Industry](read14_301.md)
 
 ## Code 201 Reading Notes
 
