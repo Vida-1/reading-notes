@@ -18,6 +18,7 @@
 * [Read: 12  - CRUD](read12_301.md)
 * [Read: 13  - More CRUD](read13_301.md)
 * [Read: 14  - Diversity & Inclusion in the Tech Industry](read14_301.md)
+* [Read: 15  - Authentication](read15_301.md)
 
 ## Code 201 Reading Notes
 
