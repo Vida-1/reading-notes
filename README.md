@@ -3,6 +3,7 @@
 
 ## Code 401 - Advanced Software Development
 * [401 PreWork - Engineering Readings](readPre_401.md)
+* [401 PreWork - Introduction to SQL](readPreSQL_401.md)
 * [Read: 01  - Node Ecosystem](read01_401.md)
 
 
