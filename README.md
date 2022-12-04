@@ -1,10 +1,12 @@
 # Reading Notes
+##### This site will store notes on the daily readings assigned in the software development course (JavaScript Track)
 
-## Code 401 Reading Notes
+## Code 401 - Advanced Software Development
+* [401 PreWork - Engineering Readings](readPre_401.md)
 * [Read: 01  - Node Ecosystem](read01_401.md)
 
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 * [Read: 01  - Introduction to React and Components](read01_301.md)
 * [Read: 02  - State and Props](read02_301.md)
 * [Read: 03  - Passing Functions as Props](read03_301.md)
@@ -21,9 +23,7 @@
 * [Read: 14  - Diversity & Inclusion in the Tech Industry](read14_301.md)
 * [Read: 15  - Authentication](read15_301.md)
 
-## Code 201 Reading Notes
-
-##### This site will store notes on the daily readings assigned in the software development course Coding 201.
+## Code 201 - Foundations of Software Development
 
 ## Contents
 * [Read: 01  - Introductory HTML and JavaScript](class-01.md)
@@ -42,7 +42,7 @@
 * [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
 * [Read: 14b - What Google Learned About Teams](class-14b.md)
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 ### Contents
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read01Image(1).jpg?width=285&height=175&crop=fill">](read01_102.md)
 * [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill">](read02_102.md)
