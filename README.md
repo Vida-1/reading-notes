@@ -6,6 +6,7 @@
 * [401 PreWork - Introduction to SQL](readPreSQL_401.md)
 * [401 PreWork - Practice in the Terminal](readPreTerminal_401.md)
 * [401 PreWork - The Growth Mindset](readPreMindset_401.md)
+* [401 PreWork - Data Structures & Algorithms](readPreDataStructures_401.md)
 * [Read: 01  - Node Ecosystem](read01_401.md)
 
 
