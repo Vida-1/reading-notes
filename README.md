@@ -8,6 +8,7 @@
 * [401 PreWork - The Growth Mindset](readPreMindset_401.md)
 * [401 PreWork - Data Structures & Algorithms](readPreDataStructures_401.md)
 * [Read: 01  - Node Ecosystem](read01_401.md)
+* [Read: 02  - Express, NPM, TDD, CI/CD](read02_401.md)
 
 
 ## Code 301 - Intermediate Software Development
