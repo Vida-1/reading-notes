@@ -9,6 +9,7 @@
 * [401 PreWork - Data Structures & Algorithms](readPreDataStructures_401.md)
 * [Read: 01  - Node Ecosystem](read01_401.md)
 * [Read: 02  - Express, NPM, TDD, CI/CD](read02_401.md)
+* [Read: 03  - Express REST API](read03_401.md)
 
 
 ## Code 301 - Intermediate Software Development
