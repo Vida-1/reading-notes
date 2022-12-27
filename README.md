@@ -13,6 +13,7 @@
 * [Read: 04  - Data Modeling](read04_401.md)
 * [Read: 05  - Linked Lists](read05_401.md)
 * [Read: 06  - Authentication](read06_401.md)
+* [Read: 07  - Bearer Authorization](read07_401.md)
 
 
 ## Code 301 - Intermediate Software Development
