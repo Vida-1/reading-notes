@@ -14,6 +14,9 @@
 * [Read: 05  - Linked Lists](read05_401.md)
 * [Read: 06  - Authentication](read06_401.md)
 * [Read: 07  - Bearer Authorization](read07_401.md)
+* [Read: 08  - Access Control (ACL)](read08_401.md)
+* [Read: 09  - Authorization/Authentication](read09_401.md)
+
 
 
 ## Code 301 - Intermediate Software Development
