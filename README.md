@@ -16,8 +16,8 @@
 * [Read: 07  - Bearer Authorization](read07_401.md)
 * [Read: 08  - Access Control (ACL)](read08_401.md)
 * [Read: 09  - Authorization/Authentication](read09_401.md)
-
-
+* [Read: 10  - Stacks & Queues](read10_401.md)
+* [Read: 11  - Event Driven Applications](read11_401.md)
 
 ## Code 301 - Intermediate Software Development
 * [Read: 01  - Introduction to React and Components](read01_301.md)
