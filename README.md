@@ -7,6 +7,8 @@
 * [401 PreWork - Practice in the Terminal](readPreTerminal_401.md)
 * [401 PreWork - The Growth Mindset](readPreMindset_401.md)
 * [401 PreWork - Data Structures & Algorithms](readPreDataStructures_401.md)
+
+=======
 * [Read: 01  - Node Ecosystem](read01_401.md)
 * [Read: 02  - Express, NPM, TDD, CI/CD](read02_401.md)
 * [Read: 03  - Express REST API](read03_401.md)
@@ -18,6 +20,14 @@
 * [Read: 09  - Authorization/Authentication](read09_401.md)
 * [Read: 10  - Stacks & Queues](read10_401.md)
 * [Read: 11  - Event Driven Applications](read11_401.md)
+* [Read: 12  - Socket.io](read12_401.md)
+<!--* [Read: 13  - ](read13_401.md)-->
+<!--* [Read: 14  - ](read14_401.md)-->
+<!--* [Read: 15  - ](read15_401.md)-->
+<!--* [Read: 16  - ](read16_401.md)-->
+<!--* [Read: 17  - ](read17_401.md)-->
+<!--* [Read: 18  - ](read18_401.md)-->
+<!--* [Read: 19  - ](read19_401.md)-->
 
 ## Code 301 - Intermediate Software Development
 * [Read: 01  - Introduction to React and Components](read01_301.md)
