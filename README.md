@@ -22,8 +22,8 @@
 * [Read: 11  - Event Driven Applications](read11_401.md)
 * [Read: 12  - Socket.io](read12_401.md)
 * [Read: 13  - Message Queues](read13_401.md)
-<!--* [Read: 14  - Event Driven Architecture](read14_401.md)-->
-<!--* [Read: (15)  - Implementation: Trees](read15_401.md)-->
+* [Read: 14  - Event Driven Architecture](read14_401.md)
+* [Read: (15)  - Implementation: Trees](read15_401.md)
 <!--* [Read: 16  - AWS: Cloud Servers](read16_401.md)-->
 <!--* [Read: 17  - AWS: S3 and Lambda](read17_401.md)-->
 <!--* [Read: 18  - AWS: API, Dynamo and Lambda](read18_401.md)-->
