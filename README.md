@@ -27,7 +27,7 @@
 * [Read: 16  - AWS: Cloud Servers](read16_401.md)
 * [Read: 17  - AWS: S3 and Lambda](read17_401.md)
 * [Read: 18  - AWS: API, Dynamo and Lambda](read18_401.md)
-<!--* [Read: 19  - AWS: Events](read19_401.md)-->
+* [Read: 19  - AWS: Events](read19_401.md)
 <!--* [Read: (20)  - Implementation: Hash Tables](read20_401.md)-->
 <!--* [Read: (21)  - Implementation: Graphs](read21_401.md)-->
 <!--* [Read: (22)  - ](read22_401.md)-->
