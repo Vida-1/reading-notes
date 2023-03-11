@@ -37,7 +37,7 @@
 * [Read: 26  - Component Based UI](read26_401.md)
 * [Read: 27  - useState() Hook](read27_401.md)
 * [Read: 28  - Advanced State with Reducers](read28_401.md)
-<!--* [Read: 29  - Component Lifecycle / useEffect Hook](read29_401.md)
+* [Read: 29  - Component Lifecycle / useEffect Hook](read29_401.md)
 <!--* [Read: (30)  - ](read30_401.md)-->
 <!--* [Read: 31  - Context API](read31_401.md)-->
 <!--* [Read: 32  - Context API - Behaviors](read32_401.md)-->
