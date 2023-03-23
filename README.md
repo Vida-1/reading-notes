@@ -40,7 +40,7 @@
 * [Read: 29  - Component Lifecycle / useEffect Hook](read29_401.md)
 * [Read: (30)  - Hash Tables](read30_401.md)
 * [Read: 31  - Context API](read31_401.md)
-<!--* [Read: 32  - Context API - Behaviors](read32_401.md)-->
+* [Read: 32  - Context API - Behaviors](read32_401.md)
 <!--* [Read: 33  - <Login /> and <Auth />](read33_401.md)-->
 <!--* [Read: 34  - API Integration](read34_401.md)-->
 <!--* [Read: (35)  - ](read35_401.md)-->
