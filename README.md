@@ -45,13 +45,13 @@
 * [Read: 34  - API Integration](read34_401.md)
 * [Read: (35)  - Graphs](read35_401.md)
 * [Read: 36  - Application State with Redux](read36_401.md)
-<!--* [Read: 37  - Redux - Combined Reducers](read37_401.md)-->
-<!--* [Read: 38  - Redux - Asynchronous Actions](read38_401.md)-->
-<!--* [Read: 39  - Redux - Additional Topics](read39_401.md)-->
-<!--* [Read: (40) - ](read40_401.md)-->
-<!--* [Read: 41  - React Native](read41_401.md)-->
-<!--* [Read: 42 - Ethics in Tech](read42_401.md)-->
-<!--* [Read: 43 - Open-Source Software (OSS) Contribution](read43_401.md)-->
+* [Read: 37  - Redux - Combined Reducers](read37_401.md)
+* [Read: 38  - Redux - Asynchronous Actions](read38_401.md)
+* [Read: 39  - Redux - Additional Topics](read39_401.md)
+<!--* [Read: (40) - ](read40_401.md) -->
+* [Read: 41  - React Native](read41_401.md)
+* [Read: 42 - Ethics in Tech](read42_401.md)
+* [Read: 43 - Open-Source Software (OSS) Contribution](read43_401.md)
 
 ## Code 301 - Intermediate Software Development
 * [Read: 01  - Introduction to React and Components](read01_301.md)
