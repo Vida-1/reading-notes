@@ -49,7 +49,7 @@
 * [Read: 38  - Redux - Asynchronous Actions](read38_401.md)
 * [Read: 39  - Redux - Additional Topics](read39_401.md)
 <!--* [Read: (40) - ](read40_401.md) -->
-* [Read: 41  - React Native](read41_401.md)
+* [Read: 41  - PWAs and App Manifests](read41_401.md)
 * [Read: 42 - Ethics in Tech](read42_401.md)
 * [Read: 43 - Open-Source Software (OSS) Contribution](read43_401.md)
 
